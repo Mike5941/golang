@@ -10,6 +10,7 @@ func main() {
 
 func foo() {
 	fmt.Println("I'm in foo")
+	fmt.Println("I'm in fo")
 }
 
 // control flow
